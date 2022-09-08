@@ -1,3 +1,11 @@
+# librdkafka v1.9.3
+
+librdkafka v1.9.3 is a maintenance release:
+
+ * Fix to improve stability and latency of the transactional producer (#3971).
+
+
+
 # librdkafka v1.9.2
 
 librdkafka v1.9.2 is a maintenance release:
